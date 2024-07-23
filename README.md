@@ -6,4 +6,7 @@ The syllabus can be found [here](https://docs.google.com/document/d/1U-ZMunw9YgR
 
 This repo will be updated each day of the course with the new coding exercise and solutions to the previous exercise.
 
-**My notebook as a participant of the workshop**
+**My notebook as a participant of the workshop. :)**
+
+## Slides online
+[Link](https://www.mobs-lab.org/sismid2024.html)
