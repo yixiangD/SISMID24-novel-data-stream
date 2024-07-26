@@ -10,3 +10,9 @@ This repo will be updated each day of the course with the new coding exercise an
 
 ## Slides online
 [Link](https://www.mobs-lab.org/sismid2024.html)
+
+
+## Update with forked
+```
+git pull upstream main
+```
